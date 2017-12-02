@@ -1,0 +1,12 @@
+﻿  main.c
+c:\users\jefferso\documents\c_bank_balance_project\c_bank_balance_project\main.c(28): warning C4013: 'strncmp' undefined; assuming extern returning int
+c:\users\jefferso\documents\c_bank_balance_project\c_bank_balance_project\main.c(35): warning C4013: 'exit' undefined; assuming extern returning int
+c:\users\jefferso\documents\c_bank_balance_project\c_bank_balance_project\main.c(16): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+c:\users\jefferso\documents\c_bank_balance_project\c_bank_balance_project\main.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\jefferso\documents\c_bank_balance_project\c_bank_balance_project\main.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\jefferso\documents\c_bank_balance_project\c_bank_balance_project\main.c(43): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+c:\users\jefferso\documents\c_bank_balance_project\c_bank_balance_project\main.c(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  C_bank_balance_project.vcxproj -> C:\Users\jefferso\Documents\C_bank_balance_project\Debug\C_bank_balance_project.exe
